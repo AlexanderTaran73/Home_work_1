@@ -14,4 +14,4 @@ public class Task_3 {
         }
         return sum;
     }
-}
+}//comment
